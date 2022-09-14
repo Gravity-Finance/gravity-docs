@@ -1,0 +1,15 @@
+{
+  "name": "gravity-protocol-docs",
+  "version": "1.0.0",
+  "description": "Documentation for the Gravity Protocol",
+  "main": "index.js",
+  "author": "grok13",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
