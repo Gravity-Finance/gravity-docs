@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"General","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"What is Gravity?","slug":"what-is-gravity","link":"#what-is-gravity","children":[]}],"git":{"updatedTime":1663196172000,"contributors":[{"name":"grok13","email":"","commits":1}]},"filePathRelative":"README.md"}');export{t as data};
