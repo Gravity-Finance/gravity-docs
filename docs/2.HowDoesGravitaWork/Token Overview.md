@@ -8,6 +8,6 @@ $GRAI is an over-collateralized USD-pegged stablecoin issued by Gravita Protocl.
 
 GRAI's Vessels' minimum collateral ratio of 110% with WETH creates a natural price ceiling at $1.1. When GRAI exchange rate exceeds that level, borrowers can make an instant profit by borrowing the maximum amount against their collateral and selling GRAI on the market for more than $1.1. If 1 GRAI trades at $1.2 for example, you can lock up $110 worth of the LST of your choice, take out a loan of 100 GRAI and sell it for $120. No matter if your loans gets liquidated or not, you have made an arbitrage gain of $20.
 
-## What is $GRVT
+## What is our future governance token
 
-Our governance token will not be depoyed at launch. Tune in to lear more about GRVT and learn about it's distribution, emission, vesting schedule etc.
+Our governance token will not be depoyed at launch. Tune in to lear more about our governance token and learn about it's distribution, emission, vesting schedule etc.
