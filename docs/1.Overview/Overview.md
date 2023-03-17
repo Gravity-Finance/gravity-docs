@@ -1,6 +1,5 @@
 # Overview
 
-###### Please review our Disclaimer and Terms of Service before using the Gravita Protocol or interacting with GRAI.
 Gravita Protocol is a decentralised borrowing protocol built on Ethereum that provides users with interest-free loans secured by both Liquid Staking Tokens (LST) and a Stability Pool (SP). <br/>
 <br/>
 Loans are issued in the form of minting **GRAI**, a token with similar volatility dampening mechanism as LUSD, and can be *up to 90%* of the value of a user's collateral.  You can find more information on the maximum LTV ratio of the supported assets in our [Collateral page](docs\2.HowDoesGravitaWork\Collateral.md). <br/>
